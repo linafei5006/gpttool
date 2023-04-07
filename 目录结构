@@ -1,0 +1,44 @@
+.
+├── app.py
+├── client
+│   ├── public
+│   │   ├── index.html
+│   │   └── ...
+│   ├── src
+│   │   ├── components
+│   │   │   ├── Chat.js
+│   │   │   ├── Draw.js
+│   │   │   ├── Home.js
+│   │   │   ├── Layout.js
+│   │   │   ├── NavBar.js
+│   │   │   └── Write.js
+│   │   ├── css
+│   │   │   ├── index.css
+│   │   │   └── ...
+│   │   ├── index.js
+│   │   └── ...
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── README.md
+│   └── ...
+├── models
+│   ├── chatgpt.py
+│   ├── draw.py
+│   └── ...
+├── static
+│   ├── css
+│   │   ├── chat.css
+│   │   └── ...
+│   ├── images
+│   │   └── ...
+│   ├── js
+│   │   ├── chat.js
+│   │   └── ...
+│   └── ...
+├── templates
+│   ├── chat.html
+│   ├── draw.html
+│   ├── home.html
+│   ├── layout.html
+│   └── write.html
+└── ...
